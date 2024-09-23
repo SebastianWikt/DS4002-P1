@@ -17,5 +17,7 @@ DS4002-PI
     - DS 4002 - Project 1 Output Graphs.pdf
 - Scripts
     - Project_1_text_analysis.ipynb
+- References
 
 ## Instructions for reproducing results
+Running the ipynb notebook in the scripts folder will generate the plots and analysis that we used for our inferences in this project. Refer to comments for specific instructions.
