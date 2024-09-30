@@ -20,4 +20,5 @@ DS4002-PI
 - References
 
 ## Instructions for reproducing results
-Running the ipynb notebook in the scripts folder will generate the plots and analysis that we used for our inferences in this project. Refer to comments in the code script for specific instructions.
+Running the ipynb notebook in the scripts folder will generate the plots and analysis that we used for our inferences in this project. Refer to comments in the code script in the SCRIPTS folder
+for specific instructions.
