@@ -20,5 +20,13 @@ DS4002-PI
 - References
 
 ## Instructions for reproducing results
-Running the ipynb notebook in the scripts folder will generate the plots and analysis that we used for our inferences in this project. Refer to comments throughout the code script in the Scripts folder
-for specific instructions that will guide you through reproducing our results.
+Running the ipynb notebook in the scripts folder will generate the plots and analysis that we used for our inferences in this project. 
+
+- Install the necessary libraries in a python environment (NLTK, wordcloud, etc).
+- Clone this repository for access to the dataset.
+- Read in and clean the data.
+- Run the defined functions to calculate polarity, subjectivity, and total positive characteristics.
+- Run the code to produce graphs and tables from this data as shown.
+- Determine the characteristics and keywords that are most highly correlated with a high ranking and high average salary (along with their confidence levels) from the last two tables produced.
+
+Refer to comments throughout the code script in the Scripts folder for specific instructions that will guide you through reproducing our results.
